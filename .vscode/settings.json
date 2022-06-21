@@ -1,0 +1,11 @@
+{
+	"editor.tabSize": 4,
+	"editor.formatOnType": true,
+	"editor.formatOnSave": true,
+	"prettier.packageManager": "yarn",
+	"prettier.useTabs": true,
+	"files.associations": {
+		"*.vue": "vue"
+	},
+	"compile-hero.disable-compile-files-on-did-save-code": false
+}
